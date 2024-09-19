@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+properties.emaar.com	TRUE	/	FALSE	1999999999	PHPSESSID	23c668051a8cb94945678fea829dcc55
+properties.emaar.com	TRUE	/	FALSE	1999999999	PersistanceCookie	!DAiFE6YCofGth/+6bEvDcWzRSqUeD2U5yaWnm/C1V0Uyytm0NBSGO+Yemd1SPnl/DU27vQjtjvoYfBw=
+properties.emaar.com	TRUE	/	FALSE	1999999999	TS0101d0c6	015b5980ce669ab359215b52cf0a6136b22f88952ca5ed5dfa9e1de816b07be9873220b883be0ae251869b268697eb29b209207884
+.fonts.net	TRUE	/	FALSE	1999999999	__cf_bm	lRMmhGHzpsYV636UY_nNru9W8nRVpFxBSJaf9cF3K0M-1726742465-1.0.1.1-hef.ueDovIejcdgJXoDUBnCZhVaH030cminDwjskxK2JwLEp6wC.z_IbYSR1XdWJPbqALhj39A30v2NE9lopfQ
+fast.fonts.net	TRUE	/	FALSE	1999999999	SameSite	None
+
